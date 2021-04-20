@@ -92,6 +92,7 @@ dependencies:
   - qtpy=1.9.0=py_0
   - scikit-learn=0.24.1=py38hf11a4ad_0
   - scipy=1.6.2=py38h14eb087_0
+  - seaborn=0.11.1=pyhd3eb1b0_0
   - send2trash=1.5.0=pyhd3eb1b0_1
   - setuptools=52.0.0=py38haa95532_0
   - sip=4.19.13=py38ha925a31_0
